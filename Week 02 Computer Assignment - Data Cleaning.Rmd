@@ -65,8 +65,8 @@ View(dataset)
 ```{r}
 # These commands are all different ways to examine the dataset in R.
 # You can uncomment each row and run the code block to try each one out.
-dplyr::glimpse(dataset) #dplyr is part of the Tidyverse packages
-#str(dataset)
+# dplyr::glimpse(dataset) #dplyr is part of the Tidyverse packages
+# str(dataset)
 ```
 
 ## Examine the data using the jmv package descriptives
